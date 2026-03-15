@@ -1,0 +1,5 @@
+trade_id,book,commodity,instrument_type,contract_month,side,quantity,unit,trade_price,trade_date,status,counterparty,currency
+T001,Oil_Book,Brent,FUT,2026-06,BUY,1000,bbl,81.20,2026-03-10,ACTIVE,ICE,USD
+T002,Gas_Book,HenryHub,FUT,2026-05,SELL,2500,MMBtu,2.65,2026-03-11,ACTIVE,CME,USD
+T003,Power_Book,DE_Power,FWD,2026-04,BUY,500,MWh,74.80,2026-03-08,ACTIVE,OTC,EUR
+T004,Oil_Book,Brent,FUT,2026-06,BUY,600,bbl,82.70,2026-03-15,ACTIVE,ICE,USD
