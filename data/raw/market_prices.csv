@@ -1,0 +1,7 @@
+valuation_date,commodity,contract_month,settlement_price,currency
+2026-03-14,Brent,2026-06,82.10,USD
+2026-03-15,Brent,2026-06,83.00,USD
+2026-03-14,HenryHub,2026-05,2.71,USD
+2026-03-15,HenryHub,2026-05,2.60,USD
+2026-03-14,DE_Power,2026-04,76.30,EUR
+2026-03-15,DE_Power,2026-04,78.10,EUR
